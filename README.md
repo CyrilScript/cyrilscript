@@ -1,5 +1,4 @@
-
-![christian-wiediger-WkfDrhxDMC8-unsplash](https://user-images.githubusercontent.com/56127021/200185460-ef2eaaf0-8c12-4243-904e-9398a9886a07.jpg)
+![kevin-ku-w7ZyuGYNpRQ-unsplash](https://user-images.githubusercontent.com/56127021/200185694-6f7e7a3f-f109-4bd1-856b-9245aece72e0.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Mmojekwu Cyril</h1>
