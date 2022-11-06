@@ -1,4 +1,4 @@
-![kevin-ku-w7ZyuGYNpRQ-unsplash](https://user-images.githubusercontent.com/56127021/200185694-6f7e7a3f-f109-4bd1-856b-9245aece72e0.jpg)
+![seyed-sina-fazeli-XP9JF6jyRGc-unsplash](https://user-images.githubusercontent.com/56127021/200185859-e52f7f8d-feb8-4fee-9d3e-a826c1bd35a0.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Mmojekwu Cyril</h1>
