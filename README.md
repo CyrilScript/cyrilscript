@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **small to large projects**
 
-- 👨‍💻 All of my projects are available at [https://mcyril.myportfolio.com/](https://mcyril.myportfolio.com/)
+- 👨‍💻 All of my projects are available at [https://cyrilscript.dev](https://cyrilscript.dev)
 
 - 💬 Ask me about **React, ReactNative, NodeJS, NestJS, NextJS Typescript, Jest, Cypress**
 
