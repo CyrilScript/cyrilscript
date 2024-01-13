@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, ReactNative, NodeJS, NestJS, NextJS Typescript, Jest, Cypress**
 
-- 📫 How to reach me **cyrilscript@gmail.com**
+- 📫 How to reach me **hello@cyrilscript.dev**
 
 - ⚡ Fun fact **I love underwater and high skies**
 
